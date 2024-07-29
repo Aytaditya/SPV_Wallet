@@ -1,0 +1,14 @@
+{
+  data: {
+    user_id: "0ed8f8fb-e3ff-4ac8-9ada-7279672ab9af",
+    wallet_id: "c679b496-3a3d-41b8-bebb-29fa83ac07b3",
+    wallet_address: "16oWVb5hyYaSyYJDoJ465oHg9asPxtLKJT",
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjQ4NjkzNjUsImlhdCI6MTcyMjI3NzM2NSwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiOWFjNjFjNWYtMjE2ZS00OTk4LWEzMGMtNjUyMDM1OTM0NTlmIiwibmJmIjoxNzIyMjc3MzY1LCJzdWIiOiIwZWQ4ZjhmYi1lM2ZmLTRhYzgtOWFkYS03Mjc5NjcyYWI5YWYiLCJ1c2VyX2lkIjoiMGVkOGY4ZmItZTNmZi00YWM4LTlhZGEtNzI3OTY3MmFiOWFmIn0.fG42GFyKq_DpCQUfhfsUbV8XWVyMzv4Z0PGTIJvw00c",
+    pub_key: "0349664e57fe60245b650008366f3729faf7b79331223efbf0dcabf897fa48a5c2",
+a5c2",
+    expires_at: "2024-08-28T18:22:45Z",
+    paymail_id: "adityaaryan531@dev.neucron.io",
+    message: "There was an error while funding wallet : insufficient funds, required: 6200 satoshis, available: 720 satoshis",
+  },
+  status_code: 200,
+}
