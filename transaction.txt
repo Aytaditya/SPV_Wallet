@@ -1,0 +1,68 @@
+{
+  data: {
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjQ4NzcyOTcsImlhdCI6MTcyMjI4NTI5NywiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiZDc5ZmIyZDEtODg1ZC00NjU5LTg0OWUtYmVlMWNjZTE1Y2Q0IiwibmJmIjoxNzIyMjg1Mjk3LCJzdWIiOiIwZDExMDRmOC04OWYwLTQ4MjktOTFmMS0wNTBkMzg1Zjk2ZWUiLCJ1c2VyX2lkIjoiMGQxMTA0ZjgtODlmMC00ODI5LTkxZjEtMDUwZDM4NWY5NmVlIn0.yDwo5BMPdQPbeH0NP014OI-YXCrXAWZqzwRDjH4iU4M",
+    expiresAt: "2024-08-28T20:34:57Z",
+    message: "Welcome, Login and session log successfull",
+  },
+  status_code: 200,
+}
+[
+  {
+    Address: "1PpntiCpCGvDCN3Ueh2XW4JSKdqkTHjog",
+    Key: "038832290779e7fb4ab13ee27f1b10c3ff6c277de49846ce9446fb4a4a61cdda44",
+  }, {
+    Address: "1ChP8LoTW48E8qSLykzRr716xdDnFkGc9A",
+    Key: "02b2b2e779a6397e4dc67b20835d497561679af5fbc3dd86452dba5dba9cec9bb7",
+  }, {
+    Address: "12bSNxrrLpF1QW3f8fZ8diwetFTap2pQ6C",
+    Key: "03860395f90aa3e731c84ab86e3e1602db52efc083a1500c668a5f2bd646002732",
+  }, {
+    Address: "134Pp21LKjpBBGw8jagQLFKiJs9CbiZrdN",
+    Key: "028c7cb4a9cb58cd3d4e59bc06b542fd4b3f6c28d81c76be65e10b6c4e30f7dcba",
+  }, {
+    Address: "1QCaTrtSkJT9tKQZLQFaVxdYXWDBMuJ5C6",
+    Key: "0222a286876654cb8fbe8bc41c1b1fd3b2c0c85a230331ca885e6443f610852584",
+  }, {
+    Address: "1KWfynZixCJDL3F554ZyHXDVqstiCeEaT8",
+    Key: "02ad72dcc3151b2e11270be2d8418d0c9bf471708822357415546c6882d506b8f9",
+  }, {
+    Address: "1J2oSgy4VVsEXaS8dc8i8g8x3T4YA9Gh4Q",
+    Key: "020c1778d53db2ac92f0efacae7e524c8182824d8e1f4d303f63727f78b1bf4ad0",
+  }, {
+    Address: "1LVnbPnWpw58cFf3ZLH3ZtWXTLUget6QTk",
+    Key: "036a0dfb57a28de1b4b4b68255596055a2187b07a4650854fc715d9c5faa167770",
+  }, {
+    Address: "1NdBDmdVR7jsATZhQ9ztyiow3vg1HVvysw",
+    Key: "037363032f22a699ce2117f2c310079231db96ad23f6764ab5c7da79ce7e65b2d1",
+  }, {
+    Address: "1MEM2ART7Gw6crmm2mVt4L3vVKmy1g3mqq",
+    Key: "0276169d23e28d3a86c2c5d3eaeb02611dc2aa215aa628d7653de9df3d8bced138",
+  }
+]
+{
+  data: {
+    balance: {
+      confirmed: 963534,
+      unconfirmed: 0,
+      summary: 963534,
+      count: 3,
+    },
+  },
+  status_code: 200,
+}
+{
+  data: {
+    addresses: [ "1PpntiCpCGvDCN3Ueh2XW4JSKdqkTHjog", "1ChP8LoTW48E8qSLykzRr716xdDnFkGc9A",
+      "12bSNxrrLpF1QW3f8fZ8diwetFTap2pQ6C", "134Pp21LKjpBBGw8jagQLFKiJs9CbiZrdN", "1QCaTrtSkJT9tKQZLQFaVxdYXWDBMuJ5C6",
+      "1KWfynZixCJDL3F554ZyHXDVqstiCeEaT8", "1J2oSgy4VVsEXaS8dc8i8g8x3T4YA9Gh4Q", "1LVnbPnWpw58cFf3ZLH3ZtWXTLUget6QTk",
+      "1NdBDmdVR7jsATZhQ9ztyiow3vg1HVvysw", "1MEM2ART7Gw6crmm2mVt4L3vVKmy1g3mqq"
+    ],
+  },
+  status_code: 200,
+}
+{
+  data: {
+    txid: "f35f2d7a80c6c6c7c750e11853562b060d28aa5aac4538d02e2cae9c67bdada3",
+  },
+  status_code: 200,
+}
